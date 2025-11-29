@@ -25,6 +25,12 @@ Data-driven Business Analytics student with proven experience in **AI research**
 
 ## 💼 Current Focus & Experience
 
+### 🩺 **Data Analyst Intern** | Nunchi Health  
+**25% faster reimbursements • 30% stronger financial transparency • 40% higher leadership engagement**
+
+### 🏙️ **Data Scientist Intern** | IDX Exchange (Real Estate Analytics)  
+**R² 0.86 forecasting • 60% workflow automation • 20% faster investment decisions**
+
 ### 🤖 **AI Research Assistant** | Stanford University (Dr. Benjamin Liu)
 *Engineering CNNs with 90% diagnostic accuracy • 35% error reduction • 40% faster data pipelines*
 
@@ -33,6 +39,10 @@ Data-driven Business Analytics student with proven experience in **AI research**
 
 ### 🌐 **Responsible Tech Intern** | The Kigumi Group
 *Market research across Asian networks • AI ethics content strategy • Cyber resilience education*
+
+### 🧠 **Research Projects**
+- **[Multi-Turn LLM Systems for Diagnostic Decision-Making](https://openreview.net/forum?id=It7AgR3A9H)**  
+  *Co-authored NeurIPS 2025 workshop paper examining how multi-turn LLMs handle clinical reasoning, uncertainty, and demographic bias; achieved ~90% diagnostic accuracy across 214 medical scenarios while reducing population-level error disparities by ~35%*
 
 ### 📈 **Active Projects**
 - **[Government Inpatient Hospital Analysis](https://github.com/hanh-analytics/Medicare-Inpatient-Hospital)**  
