@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <strong>Junior | University of Massachusetts Boston | Business Analytics</strong><br>
+  <strong>Junior | Boston University | Analyst</strong><br>
   Transforming data into actionable insights for strategic business decisions
 </p>
 
