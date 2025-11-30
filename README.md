@@ -105,19 +105,6 @@ Data-driven Business Analytics student with proven experience in **AI research**
 
 </div>
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanz-01105&show_icons=true&theme=default&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanz-01105&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanz-01105&layout=compact&theme=default)
-
-</div>
 
 ---
 
