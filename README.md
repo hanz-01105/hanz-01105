@@ -1,4 +1,4 @@
-# 📊 Hanh Le | Data & Business Analytics Professional
+# 📊 Kate Le | Data & Business Analytics Professional
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Data+%26+Financial+Analyst;Business+Analytics+Student;Data-Driven+Decision+Maker;Python+%26+SQL+Enthusiast" alt="Typing SVG" />
